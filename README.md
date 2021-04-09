@@ -2,6 +2,11 @@
 Generates a per-folder/user S3/Wasabi policy (JSON).<br>
 A 'sensitive' version is also provided, which generates a sensitive sub-user S3/Wasabi policy (JSON).
 
+<p align="center"><img src="screenshots/mainwindow.png"></p>
+
+## Downloads
+You can <b>download</b> the latest release for <b>Windows</b> as a portable, standalone executable [HERE](https://github.com/DexterLagan/S3-policy-generator/releases).
+
 ## Sample Output
 
 <pre>
